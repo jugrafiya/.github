@@ -32,7 +32,7 @@ Explore our open-source projects, engage with our GIS community, and discover ho
 
 🌐 **Website**: [Your Website URL]
 
-📢 **Follow Us**: [GitHub Repository Links, Social Media Links]
+📢 **Follow Us**: [[GitHub Repository Links](https://github.com/jugrafiya), [Social Media Links](https://www.linkedin.com/company/jugrafiya)]
 
 Join us on our journey to revolutionize the GIS landscape. Let's map the future together!
 
