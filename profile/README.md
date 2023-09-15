@@ -36,6 +36,4 @@ Explore our open-source projects, engage with our GIS community, and discover ho
 
 Join us on our journey to revolutionize the GIS landscape. Let's map the future together!
 
----
 
-Feel free to customize this description to align with your organization's unique vision and voice.
