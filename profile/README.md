@@ -28,7 +28,7 @@ At Jugrafiya, we specialize in providing a wide range of GIS-based services:
 
 Explore our open-source projects, engage with our GIS community, and discover how Jugrafiya can transform your geospatial needs into reality.
 
-📧 **Contact Us**: [muhammad.tayyab@jugrafiya.com]
+📧 **Contact Us**: [[Email](https://jugrafiya.com/)]
 
 🌐 **Website**: [https://jugrafiya.com/]
 
