@@ -1,4 +1,4 @@
-```markdown
+
 # Welcome to Jugrafiya - Your GIS Solutions Partner
 
 ![Jugrafiya Logo](https://jugrafiya.com/_ipx/w_384,q_75/%2Fassets%2Fimages%2Flogo.png?url=%2Fassets%2Fimages%2Flogo.png&w=384&q=75)
@@ -32,5 +32,4 @@ Explore our open-source projects, engage with our GIS community, and discover ho
 
 
 Join us on our journey to revolutionize the GIS landscape. Let's map the future together!
-```
 
