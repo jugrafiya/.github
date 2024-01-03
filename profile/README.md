@@ -1,4 +1,4 @@
- y
+
 # Welcome to Jugrafiya - Your GIS Solutions Partner
 
 
