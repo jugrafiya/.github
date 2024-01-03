@@ -1,7 +1,6 @@
  y
 # Welcome to Jugrafiya - Your GIS Solutions Partner
 
-![Jugrafiya Logo]([https://jugrafiya.com/assets/images/logo.png))
 
 Jugrafiya specializes in providing top-tier Web GIS Development services to businesses. Based in Pakistan, our team of highly experienced GIS Engineers specializes in:
 
